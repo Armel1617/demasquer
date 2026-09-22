@@ -6,7 +6,7 @@
 
 const CONFIG = {
     productName: "Démasquer l'hypocrisie",
-    price: "3 999 FCFA",
+    price: "1 500 FCFA",
 
     /*
      * REMPLACE cette URL par ton vrai lien de paiement.
@@ -14,7 +14,7 @@ const CONFIG = {
      * Exemple :
      * https://ton-lien-de-paiement.com
      */
-    paymentUrl: "https://nrprgfox.mychariow.shop/prd_k14oalu8"
+    paymentUrl: "https://nrprgfox.mychariow.shop/prd_k14oalu8/checkout"
 };
 
 
